@@ -27,7 +27,7 @@ Detail-oriented and results-driven Data Analyst with over 3 years of experience 
 
 ## 📈 Projects
 
-### [Shareholder Classification](https://github.com/Vedikas4796/Shareholder-Classification)
+### [Shareholder Classification](https://github.com/Vedikas4796/SC)
 Streamlined free float calculation by classifying shareholders using fuzzy matching techniques with Fuzzy Wuzzy.
 
 ### [Data Research Tool Creation](https://github.com/Vedikas4796/Data-Research-Tool-Creation)
