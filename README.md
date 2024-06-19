@@ -2,7 +2,10 @@
 
 **Data Analyst | Gurugram, Haryana**  
 [![Email](https://img.shields.io/badge/Email-Vedikas4796%40gmail.com-blue)](mailto:Vedikas4796@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/vedikas4796)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourprofile)
+![GitHub followers](https://img.shields.io/github/followers/Vedikas4796?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Vedikas4796?style=social)
+![Vedika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vedikas4796&show_icons=true&theme=radical)
 
 ---
 
