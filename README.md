@@ -36,6 +36,13 @@ Enhanced data transformation efficiency by integrating advanced algorithms, redu
 ### [File Creation Process Automation](https://github.com/Vedikas4796/File-Creation-Process-Automation)
 Automated the manual indexing process using VBA and macros, increasing efficiency by 90%.
 
+### [Data Governance Implementation](https://github.com/Vedikas4796/Data-Governance-Implementation)
+Led the implementation of a data governance framework to ensure data quality and compliance, resulting in a 20% improvement in data accuracy
+
+### [SQL Optimization Project]((https://github.com/Vedikas4796/SQL-Optimization-Project)
+Created/Optimized existing SQL queries and stored procedures, reducing data processing time by 30%
+
+
 ---
 
 ## 🏆 Awards & Honors
